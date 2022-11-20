@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport">
+  <link rel="stylesheet" href="style.css">
+  <title>Quiz Application</title>
+</head>
+<body>
+  <div class = "mode">
+    <button onclick="myFunction()">Toggle dark mode</button>
+  </div>
+  <div class="quiz-container" id="getQuiz">
+    <div class="quiz-header">
+      <h2 id="getQuestion">Question Text</h2>
+      <ul>
+        <li>
+          <input type="radio" name="answer" id="A" class="getAnswer">
+          <label for="a" id="getA">Answer</label>
+        </li>
+
+        <li>
+          <input type="radio" name="answer" id="B" class="getAnswer">
+          <label for="b" id="getB">Answer</label>
+        </li>
+
+        <li>
+          <input type="radio" name="answer" id="C" class="getAnswer">
+          <label for="c" id="getC">Answer</label>
+        </li>
+
+        <li>
+          <input type="radio" name="answer" id="D" class="getAnswer">
+          <label for="d" id="getD">Answer</label>
+        </li>
+      </ul>
+    </div>
+    <button id="getSubmit">Submit</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
