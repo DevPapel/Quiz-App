@@ -19,7 +19,7 @@ const getQuizData = [
         B: "Deoxyliconic Acid",
         C: "Deoxyribonulic Acid",
         D: "Deoxyribosomic Acid",
-        AnswerKey: "A",
+        AnswerKey: "D",
     },
     {
         Question: "The concept of gravity was discovered by which famous physicist?",
@@ -27,7 +27,7 @@ const getQuizData = [
         B: "Isaac Newton",
         C: "Robert Boyle",
         D: "Leonardo da Vinci",
-        AnswerKey: "A",
+        AnswerKey: "C",
     },
     {
         Question: "What is the function of the blood cell?",
@@ -35,7 +35,7 @@ const getQuizData = [
         B: "To control the size of the openings.",
         C: "To carry oxygen around the body.",
         D: "None of the above",
-        AnswerKey: "A",
+        AnswerKey: "C",
     },
     {
         Question: "You see your reflection in a mirror because:",
@@ -43,7 +43,7 @@ const getQuizData = [
         B: "Light is diffracted",
         C: "Light is reflect",
         D: "Light is refracted",
-        AnswerKey: "A",
+        AnswerKey: "C",
     },
     {
         Question: "Which of these have a positive charge and are found in the nucleus of an atom?",
@@ -51,7 +51,7 @@ const getQuizData = [
         B: "Protons",
         C: "Electrons",
         D: "Elements",
-        AnswerKey: "A",
+        AnswerKey: "B",
     },
     {
         Question: "One complete revolution of Earth around the sun is equal to approximately one ___",
@@ -67,7 +67,7 @@ const getQuizData = [
         B: "Kidney",
         C: "Brain",
         D: "Spatula",
-        AnswerKey: "A",
+        AnswerKey: "D",
     },
     {
         Question: "How many bones are there in an adult human body?",
@@ -75,7 +75,7 @@ const getQuizData = [
         B: "169",
         C: "206",
         D: "226",
-        AnswerKey: "A",
+        AnswerKey: "C",
     },
     {
         Question: "What do Venus and Mercury have in common?",
@@ -83,7 +83,7 @@ const getQuizData = [
         B: "They don't have moons.",
         C: "They have nothing in common",
         D: "Their surface temperatures are exactly the same.",
-        AnswerKey: "A",
+        AnswerKey: "B",
     },
 
 
